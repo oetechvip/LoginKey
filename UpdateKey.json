@@ -1,6 +1,6 @@
 {
-  "showDialog": "true",
-  "latestVersionCode": "999999999",
+  "showDialog": true,
+  "latestVersionCode": 2,
   "latestVersionName": "1.0",
   "title": "PEMBARUAN TERSEDIA",
   "message": "Dapatkan fitur terbaru dan peningkatan lainnya, silahkan perbarui aplikasi dengan klik tombol UNDUH di bawah ini",
