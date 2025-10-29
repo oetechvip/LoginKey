@@ -1,10 +1,8 @@
 {
   "showDialog": true,
-  "latestVersionCode": 13,
-  "latestVersionName": "1.1",
+  "expires": "01-01-2026",
   "title": "PEMBARUAN TERSEDIA",
   "message": "Dapatkan fitur terbaru dan peningkatan lainnya, silahkan perbarui aplikasi dengan klik tombol UNDUH di bawah ini",
   "UpdateButtonText": "UNDUH",
-  "showCancelButton": true,
   "UpdateButtonUrl": "https://wa.me/+628125866885"
 }
