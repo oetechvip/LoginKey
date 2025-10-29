@@ -5,6 +5,6 @@
   "title": "PEMBARUAN TERSEDIA",
   "message": "Dapatkan fitur terbaru dan peningkatan lainnya, silahkan perbarui aplikasi dengan klik tombol UNDUH di bawah ini",
   "UpdateButtonText": "UNDUH",
-  "show_cancel_button": true,
+  "showCancelButton": true,
   "UpdateButtonUrl": "https://wa.me/+628125866885"
 }
