@@ -6,16 +6,16 @@
     "expiry": "" // DATE FORMAT~ YYYY-MM-DD
   },
   {
-    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "abc",
-    "password": "101",
-    "expiry": "2026-09-29"
+    "Device Id": "5bf2505e635ef91a",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "Mpuss",
+    "password": "cinemavip",
+    "expiry": "2026-12-30"
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "def",
-    "password": "102",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "Device Id": "44e586dbf1947838",
+    "username": "Dhani",
+    "password": "cinemavip",
+    "expiry": "2026-09-03" // NO DATE NO EXPIRY UNLIMITED KEY 
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
