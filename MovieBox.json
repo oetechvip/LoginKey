@@ -12,10 +12,10 @@
     "expiry": "2025-12-07"
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "def",
-    "password": "102",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "Device Id": "cc26938e6700bd9e",   // Bulanan
+    "username": "Ifit Langsing",
+    "password": "vvip",
+    "expiry": "2025-12-30" // NO DATE NO EXPIRY UNLIMITED 
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
