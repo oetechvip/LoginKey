@@ -10,7 +10,7 @@
     "tgChatId": "-10028934579684"
   },
   "security": {
-    "packageName": "com.dpmods",
+    "packageName": "com.oppa.ganteng",
     "killOnMismatch": true
   },
   "ui": {
