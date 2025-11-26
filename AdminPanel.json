@@ -128,7 +128,7 @@
     "ADMIN_ACCESS": {
       "type": "lifetime",
       "devices": [
-        "YOUR_PERSONAL_DEVICE_ID"
+        "22a01fca5590cf2f"
       ],
       "notify": false,
       "toast": "👑 Welcome Owner"
