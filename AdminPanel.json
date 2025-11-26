@@ -2,7 +2,7 @@
   "config": {
     "maintenance": false,
     "silentCheck": true,
-    "timezone": "Asia/Kolkata",
+    "timezone": "Asia/indonesia",
     "broadcastEnabled": false,
     "broadcastMessage": "🔥 New Season Update is Live! Check Telegram.",
     "adminUrl": "https://t.me/DPMods",
