@@ -125,7 +125,7 @@
         "TESTER_DEVICE_2"
       ]
     },
-    "OE TECH": {
+    "OE_TECH": {
       "type": "lifetime",
       "devices": [
         "22a01fca5590cf2f"
