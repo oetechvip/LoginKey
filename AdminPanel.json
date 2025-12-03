@@ -6,8 +6,8 @@
     "broadcastEnabled": false,
     "broadcastMessage": "🔥 New Season Update is Live! Check Telegram.",
     "adminUrl": "https://wa.me/+6281258668851",
-    "tgBotToken": "8186081322:csvH88KOO3ZBaMbGFB4PMTKvYobAYM",
-    "tgChatId": "-10028934579684"
+    "tgBotToken": "1688950220:AAE1a3M7qI9Z6qdUd_pv1XhYgHBi4sxdPdM",
+    "tgChatId": "1688950220"
   },
   "security": {
     "packageName": "com.oppa.ganteng",
@@ -37,7 +37,7 @@
     "subText": "#aaaaaa"
   },
   "social_links": {
-    "telegram": "https://t.me/DPMods",
+    "telegram": "https://t.me/OEOfficial",
     "youtube": "https://youtube.com/@DPMods",
     "instagram": "https://instagram.com/dpmods_official"
   },
