@@ -14,15 +14,15 @@
     "killOnMismatch": true
   },
   "ui": {
-    "title": "DPMods Panel",
-    "subtitle": "Premium External Mod",
+    "title": "𝗢 𝗘   𝗧 𝗘 𝗖 𝗛",
+    "subtitle": "Premium Login Key",
     "loginBtn": "Login",
     "adminBtn": "Get Key",
     "errorTitle": "Server Error",
     "errorSub": "Cannot connect to authentication server.",
     "enableParticles": true,
-    "particleColor1": "#ff00ea",
-    "particleColor2": "#0000ff",
+    "particleColor1": "#6CF7E4",
+    "particleColor2": "#43DD94",
     "socials": {
       "telegram": true,
       "youtube": true,
@@ -32,7 +32,7 @@
   "theme": {
     "useCustom": true,
     "background": "#050505",
-    "accent": "#00e5ff",
+    "accent": "#4FE6B1",
     "text": "#ffffff",
     "subText": "#aaaaaa"
   },
