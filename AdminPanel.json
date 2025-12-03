@@ -10,7 +10,7 @@
     "tgChatId": "1688950220"
   },
   "security": {
-    "packageName": "com.oppa.ganteng",
+    "packageName": "com.community.oneroom",
     "killOnMismatch": true
   },
   "ui": {
