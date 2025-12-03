@@ -16,8 +16,8 @@
   "ui": {
     "title": "𝗢 𝗘   𝗧 𝗘 𝗖 𝗛",
     "subtitle": "Premium Login Key",
-    "loginBtn": "Login",
-    "adminBtn": "Get Key",
+    "loginBtn": "LOGIN",
+    "adminBtn": "ADMIN",
     "errorTitle": "Server Error",
     "errorSub": "Cannot connect to authentication server.",
     "enableParticles": true,
