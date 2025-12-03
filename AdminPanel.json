@@ -157,6 +157,72 @@
         "22a01fca5590cf2f",
         "TESTER_DEVICE_2"
       ]
+      },
+    "PERCOBAAN2": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN3": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN4": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN5": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN6": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN7": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
     }
   }
 }
