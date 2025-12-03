@@ -114,7 +114,7 @@
       "notify": true,
       "toast": "Monthly Subscription Active"
     },
-    "BETA_TESS": {
+    "BETA_TESTER": {
       "type": "date",
       "interval": "everytime",
       "notify": true,
@@ -146,6 +146,17 @@
       "notify": true,
       "value": "2025-11-25",
       "toast": "Today Key"
+      },
+    "PERCOBAAN": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
     }
   }
 }
