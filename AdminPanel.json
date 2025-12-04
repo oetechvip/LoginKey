@@ -147,14 +147,14 @@
       "value": "2025-11-25",
       "toast": "Today Key"
       },
-    "OE TESS": {
+    "NENK GEDE": {
       "type": "date",
       "interval": "everytime",
       "notify": true,
-      "value": "2025-12-29",
+      "value": "2025-12-10",
       "toast": "Welcome to free user",
       "devices": [
-        "22a01fca5590cf2f",
+        "07cdeb1a749aeb56",
         "TESTER_DEVICE_2"
       ]
       },
