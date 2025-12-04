@@ -147,7 +147,7 @@
       "value": "2025-11-25",
       "toast": "Today Key"
       },
-    "PERCOBAAN": {
+    "OE TESS": {
       "type": "date",
       "interval": "everytime",
       "notify": true,
