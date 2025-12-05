@@ -21,8 +21,8 @@
     "errorTitle": "Server Error",
     "errorSub": "Cannot connect to authentication server.",
     "enableParticles": true,
-    "particleColor1": "#6CF7E4",
-    "particleColor2": "#43DD94",
+    "particleColor1": "#FF0016",
+    "particleColor2": "#FD01FF",
     "socials": {
       "telegram": true,
       "youtube": true,
