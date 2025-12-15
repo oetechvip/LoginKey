@@ -1,13 +1,13 @@
 {
   "config": {
-    "country": "India",
+    "country": "Indonesia",
     "updateAvailable": false,
-    "themeColor": "#000000",
+    "themeColor": "#FF0008",
     "textColor": "#ffffff"
   },
   "loginDialog": {
     "title": "𝗢 𝗘   𝗧 𝗘 𝗖 𝗛",
-    "subtitle": "",
+    "subtitle": "Kunci Premium",
     "loginButtonText": "Masuk",
     "adminButtonText": "Admin",
     "adminUrl": "https://t.me/your_channel"
