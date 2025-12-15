@@ -2,14 +2,14 @@
   "config": {
     "country": "India",
     "updateAvailable": false,
-    "themeColor": "#8e44ad",
+    "themeColor": "#000000",
     "textColor": "#ffffff"
   },
   "loginDialog": {
-    "title": "Welcome To DPMods",
-    "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
-    "loginButtonText": "Login",
-    "adminButtonText": "Get Key",
+    "title": "𝗢 𝗘   𝗧 𝗘 𝗖 𝗛",
+    "subtitle": "",
+    "loginButtonText": "Masuk",
+    "adminButtonText": "Admin",
     "adminUrl": "https://t.me/your_channel"
   },
   "updateDialog": {
@@ -22,8 +22,8 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "VIP-USER": {
-      "expiry": "2025-12-31",
+    "OWNER": {
+      "expiry": "",
       "interval": "1week",
       "toast": "Welcome back, VIP Legend! 👑"
     },
