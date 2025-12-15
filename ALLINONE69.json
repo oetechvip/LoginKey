@@ -23,8 +23,8 @@
   },
   "keys": {
     "OWNER": {
-      "expiry": "",
-      "interval": "1week",
+      "expiry": "7d",
+      "interval": "everytime",
       "toast": "Welcome back, VIP Legend! 👑"
     },
     "TRIAL-KEY": {
