@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "name": "DPMods YT",
+    "role": "Product Designer",
+    "tags": ["Figma", "UX Design"],
+    "stats": {
+      "rating_value": "4.5",
+      "rating_label": "Rating",
+      "earned_value": "$15K+",
+      "earned_label": "Earned",
+      "rate_value": "$80/hr",
+      "rate_label": "Rate"
+    },
+    "main_button": {
+      "text": "Get in touch",
+      "url": "https://t.me/your_telegram_link"
+    }
+  },
+  "apps": [
+    {
+      "name": "Netflix",
+      "version": "v9.46.1",
+      "icon": "https://liteapks.com/wp-content/uploads/2022/04/netflix.png",
+      "url": "http://www.dpmods.com"
+    },
+    {
+      "name": "Snaptube",
+      "version": "v7.51.1",
+      "icon": "https://liteapks.com/wp-content/uploads/2022/04/snaptube-mod-liteapks-e1651227086725.jpg",
+      "url": "http://www.dpmods.com"
+    },
+    {
+      "name": "TikTok",
+      "version": "v43.0.1",
+      "icon": "https://liteapks.com/wp-content/uploads/2022/04/tiktok.png",
+      "url": "http://www.dpmods.com"
+    },
+    {
+      "name": "Spotify",
+      "version": "v9.1.2",
+      "icon": "https://liteapks.com/wp-content/uploads/2022/04/spotify-music-and-podcasts.png",
+      "url": "http://www.dpmods.com"
+    }
+  ]
+}
